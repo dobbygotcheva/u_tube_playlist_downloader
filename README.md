@@ -171,7 +171,6 @@ yt-dlp --flat-playlist "PLAYLIST_URL"
 
 ## 🎉 You're Ready!
 
-With these instructions, you can now download any YouTube playlist on Linux using simple terminal commands. The `yt-dlp` tool is more powerful and reliable than the original Windows application, and it works natively on Linux.
 
 **Remember**: Always use the Android client method (`--extractor-args youtube:player_client=android`) for the best compatibility and to avoid bot detection issues.
 
